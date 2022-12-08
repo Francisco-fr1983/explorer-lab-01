@@ -3,6 +3,7 @@
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
+![cartão-visa](https://user-images.githubusercontent.com/79156176/206582675-106c53dc-a764-4eb0-a23a-c18a183a5e65.jpg)
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
