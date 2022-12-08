@@ -3,7 +3,6 @@
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
-![cartão-visa](https://user-images.githubusercontent.com/79156176/206582675-106c53dc-a764-4eb0-a23a-c18a183a5e65.jpg)
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,6 +20,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
+![cartão-visa](https://user-images.githubusercontent.com/79156176/206582964-826aae64-5745-4f19-91b1-52901a17acd5.jpg)
 
 ## 🚀 Tecnologias
 
